@@ -1,4 +1,4 @@
-# **WIP ATM**
+# **WIP AT THE MOMENT**
 
 # Terminal Race
 
@@ -22,9 +22,15 @@ The game works locally using multiple terminal windows. If you open port ```x```
 
 ## Usage
 
+Compilation
 ```sudo chmod +x compile.sh && ./compile.sh```
 
+Server start
 ```./server [port]```
 
+Client start
 ```./client [IP address] [port]```
 
+## Game screen
+
+![Game Screen1](assets/images/screenshot1.png)
