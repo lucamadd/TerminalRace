@@ -33,4 +33,28 @@ Client start
 
 ## Game screen
 
+Players are marked with a red ```@``` (the player) and a blue number (other players). The destination is represented by a pair of brackets.
+
 ![Game Screen1](assets/images/screenshot1.png)
+
+## Game Over
+
+When a player reaches the destination, the match stops and the gameover screen become visible.
+
+![Game Screen2](assets/images/screenshot2.png)
+
+
+## Communication between client and server
+
+Both client and server use pipes to send messages. Every message follow this scheme:
+
+```OPERATION&field1&field2&...&fieldN```
+
+where *OPERATION* stands for the type of the command, and the fields represent the actual message.
+
+
+# Notes
+
+The project was developed on Manjaro Linux 18 with KDE, and tested on:
+- Ubuntu 18.04
+- Debian x64
