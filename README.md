@@ -1,5 +1,3 @@
-# **WIP AT THE MOMENT**
-
 # Terminal Race
 
 Client-server game based on TCP sockets
