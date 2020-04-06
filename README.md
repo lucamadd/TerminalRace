@@ -4,7 +4,7 @@ Client-server game based on TCP sockets
 
 ## Disclaimer
 
-This project was made for academic purpose only. No changes will be applied to any file present in this repo.
+This project was made in 2017 for academic purpose only. No changes will be applied to any file present in this repo.
 
 ## Description
 
